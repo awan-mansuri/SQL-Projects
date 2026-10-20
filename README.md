@@ -37,5 +37,3 @@ MSc IT | Aspiring Data Analyst
 - GitHub: https://github.com/awan-mansuri
 - LinkedIn: https://www.linkedin.com/in/awan-mansuri
 
----
-*Project descriptions should reflect the SQL queries and analysis actually present in this repository.*
