@@ -1,17 +1,41 @@
-# SQL Projects Portfolio
 
-Data Analyst SQL projects — from data cleaning to advanced business analysis using MySQL.
+# 🗄️ SQL Data Analytics Projects
+
+## 📌 Overview
+This repository contains SQL projects focused on data analysis, querying, and extracting insights from data.
+
+## 🛠️ Skills & Tools
+- SQL queries
+- Filtering and sorting
+- Aggregations and GROUP BY
+- JOIN operations
+- Subqueries and CTEs (where used)
+- Window functions (where used)
+- Business-focused data analysis
 
 ## 📂 Projects
 
-| # | Project | Business Question | Skills |
-|---|---|---|---|
-| 1 | [Online Retail RFM Analysis](./Project1_Online_Retail_RFM) | Which customers should we retain, reward, or let go? | Window Functions, Subqueries, CASE, Segmentation |
-| 2 | [Bank Fraud Detection](./Project2_Bank_Fraud_Detection) | Which transactions show fraud patterns, and how would we flag them? | Conditional Aggregation, Rule-Based Flagging, Rule Validation |
+### 1. Online Retail RFM Analysis
+**Objective:** Analyze customer purchasing behavior using Recency, Frequency, and Monetary value.
 
-## 🛠️ Tools
-MySQL, SQL
+**Skills demonstrated:** Customer segmentation and SQL-based analysis, where implemented.
+
+### 2. Bank Fraud Detection
+**Objective:** Explore transaction data to investigate suspicious patterns.
+
+**Skills demonstrated:** Filtering, aggregation, and transaction analysis, where implemented.
+
+## 💡 Business Applications
+- Understand customer purchasing behavior.
+- Identify customer groups for targeted marketing.
+- Explore transaction patterns for further fraud investigation.
 
 ## 👤 Author
-**Awan Mansuri** | BSc Information Technology | Aspiring Data Analyst
-[LinkedIn](https://www.linkedin.com/in/awan-mansuri)
+**Awan Mansuri**  
+MSc IT | Aspiring Data Analyst
+
+- GitHub: https://github.com/awan-mansuri
+- LinkedIn: https://www.linkedin.com/in/awan-mansuri
+
+---
+*Project descriptions should reflect the SQL queries and analysis actually present in this repository.*
